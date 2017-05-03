@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="mod_sa_VS2008">
+</Property><Property Name="Файл решения" Value="C:\Users\Alex\Desktop\собейт\src\mod_sa_VS2008.sln">
+</Property><Property Name="Date" Value="5 декабря 2014 г.">
+</Property><Property Name="Time" Value="19:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="mod_sa_VS2008.sln" Description="Успешно создана резервная копия файла C:\Users\Alex\Desktop\собейт\src\mod_sa_VS2008.sln.old">
+</Event><Event ErrorLevel="0" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="Converting project file 'C:\Users\Alex\Desktop\собейт\src\mod_sa_VS2008.vcproj'.">
+</Event><Event ErrorLevel="1" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="MSB8012: $(TargetName) ('mod_sa') does not match the Linker's OutputFile property value '../bin/d3d9.dll' ('d3d9') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Alex\Desktop\собейт\src\\obj\Release\mod_sa.dll') does not match the Linker's OutputFile property value '../bin/d3d9.dll' ('C:\Users\Alex\Desktop\собейт\src\../bin/d3d9.dll') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="Done converting to new project file 'C:\Users\Alex\Desktop\собейт\src\mod_sa_VS2008.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="mod_sa_VS2008" Source="mod_sa_VS2008.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="mod_sa_VS2008.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="mod_sa_VS2008.sln" Description="Converted">
+</Event></UpgradeLog>
